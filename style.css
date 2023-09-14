@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  text-align: center;
+  background-color: rgb(252, 252, 252);
+}
+
+/* First h1 */
+
+h1 {
+  font-size: 40px;
+  color: #121212;
+}
+
+/* Football Image */
+
+.football-picture {
+  width: 380px;
+  border-width: 3px;
+}
+
+/* Sentences below the football picture */
+
+p {
+  color: #121212;
+  line-height: 6px;
+}
+
+/* The Two Buttons */
+
+.btn {
+  width: 250px;
+  height: 40px;
+  border-style: none;
+  display: block;
+  margin: auto;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.email {
+  margin-bottom: 10px;
+  margin-top: 45px;
+  border: solid black;
+  border-width: 1px;
+  background-color: white;
+  color: #121212;
+}
+
+.email:hover {
+  cursor: pointer;
+  background-color: black;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+/* JOIN BTN  */
+
+.join {
+  background-color: rgb(14, 13, 13);
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.join:hover {
+  border: solid black;
+  border-width: 1px;
+  background-color: white;
+  color: #121212;
+}
+
+/* Footer */
+
+footer {
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: italic;
+}

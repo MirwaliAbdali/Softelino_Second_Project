@@ -18,6 +18,7 @@ h1 {
 .football-picture {
   width: 380px;
   border-width: 3px;
+  border-radius: 5px;
 }
 
 /* Sentences below the football picture */

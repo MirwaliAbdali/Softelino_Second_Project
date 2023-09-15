@@ -53,6 +53,7 @@ p {
   cursor: pointer;
   background-color: black;
   color: rgba(255, 255, 255, 0.87);
+  transition: 0.9s;
 }
 
 /* JOIN BTN  */
@@ -67,6 +68,7 @@ p {
   border-width: 1px;
   background-color: white;
   color: #121212;
+  transition: 0.9s;
 }
 
 /* Footer */
